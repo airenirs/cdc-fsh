@@ -51,14 +51,14 @@ export function Home() {
                 Career Development Center Fakultas Syariah dan Hukum UIN Sunan Gunung Djati Bandung hadir untuk membantu mahasiswa dan alumni meraih kesuksesan karir.
               </p>
               <div className="flex flex-wrap gap-4">
+                <Button asChild size="lg" variant="outline">
+                  <Link to="https://cdc.uinsgd.ac.id/tracer_study/">Isi Tracert Study</Link>
+                </Button>
                 <Button asChild size="lg">
                   <Link to="/lowongan">
                     Lihat Lowongan
                     <ArrowRight className="ml-2 h-4 w-4" />
                   </Link>
-                </Button>
-                <Button asChild size="lg" variant="outline">
-                  <Link to="/hubungi-kami">Hubungi Kami</Link>
                 </Button>
               </div>
             </div>
