@@ -2,7 +2,7 @@
 
 > Platform Career Development Center untuk Fakultas Syariah dan Hukum UIN Sunan Gunung Djati Bandung
 
-**Live Site:** [https://cdcfsh.kura-kura.id/](https://cdcfsh.kura-kura.id/)
+**Live Site:** [https://cdc.fsh.uinsgd.ac.id/](https://cdc.fsh.uinsgd.ac.id/)
 
 ## Tentang Project
 
@@ -203,7 +203,7 @@ UIN Sunan Gunung Djati Bandung
 
 For questions or support:
 - Email: cdc.fsh@uinsgd.ac.id
-- Website: [https://cdcfsh.kura-kura.id/](https://cdcfsh.kura-kura.id/)
+- Website: [https://cdc.fsh.uinsgd.ac.id/](https://cdc.fsh.uinsgd.ac.id/)
 
 ## Acknowledgments
 
