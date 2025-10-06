@@ -2,13 +2,11 @@
 
 > Platform Career Development Center untuk Fakultas Syariah dan Hukum UIN Sunan Gunung Djati Bandung
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status)](https://app.netlify.com/sites/cdcfsh/deploys)
-
 ## 🎯 Tentang Project
 
 CDC FSH adalah platform digital yang dirancang untuk membantu mahasiswa Fakultas Syariah dan Hukum dalam pengembangan karir mereka. Platform ini menyediakan informasi lowongan pekerjaan, program magang, dan berbagai resources untuk mempersiapkan mahasiswa memasuki dunia kerja.
 
-**Live Site:** [https://cdcfsh.kura-kura.id/](https://cdcfsh.kura-kura.id/)
+**Live Site:** [https://cdc.fsh.uinsgd.id/](https://cdc.fsh.uinsgd.id/)
 
 ## ✨ Fitur Utama
 
@@ -255,7 +253,7 @@ UIN Sunan Gunung Djati Bandung
 
 For questions or support:
 - Email: cdc.fsh@uinsgd.ac.id
-- Website: [https://cdcfsh.kura-kura.id/](https://cdcfsh.kura-kura.id/)
+- Website: [https://cdc.fsh.uinsgd.id/](https://cdc.fsh.uinsgd.id/)
 
 ## 🙏 Acknowledgments
 
