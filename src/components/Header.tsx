@@ -9,6 +9,7 @@ export function Header() {
 
   const navItems = [
     { name: 'Beranda', path: '/' },
+    { name: 'Isi Tracert Study', path: 'https://cdc.uinsgd.ac.id/tracer_study/' },
     { name: 'Lowongan', path: '/lowongan' },
     { name: 'Magang', path: '/magang' },
     {
