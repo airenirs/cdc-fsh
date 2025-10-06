@@ -202,7 +202,7 @@ UIN Sunan Gunung Djati Bandung
 ## Contact
 
 For questions or support:
-- Email: cdc.fsh@uinsgd.ac.id
+- Email: cdc@fsh.uinsgd.ac.id
 - Website: [https://cdc.fsh.uinsgd.ac.id/](https://cdc.fsh.uinsgd.ac.id/)
 
 ## Acknowledgments
