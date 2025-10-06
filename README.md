@@ -6,7 +6,7 @@
 
 CDC FSH adalah platform digital yang dirancang untuk membantu mahasiswa Fakultas Syariah dan Hukum dalam pengembangan karir mereka. Platform ini menyediakan informasi lowongan pekerjaan, program magang, dan berbagai resources untuk mempersiapkan mahasiswa memasuki dunia kerja.
 
-**Live Site:** [https://cdc.fsh.uinsgd.id/](https://cdc.fsh.uinsgd.id/)
+**Live Site:** [https://cdc.fsh.uinsgd.ac.id/](https://cdc.fsh.uinsgd.ac.id/)
 
 ## ✨ Fitur Utama
 
@@ -253,7 +253,7 @@ UIN Sunan Gunung Djati Bandung
 
 For questions or support:
 - Email: cdc.fsh@uinsgd.ac.id
-- Website: [https://cdc.fsh.uinsgd.id/](https://cdc.fsh.uinsgd.id/)
+- Website: [https://cdc.fsh.uinsgd.ac.id/](https://cdc.fsh.uinsgd.ac.id/)
 
 ## 🙏 Acknowledgments
 
